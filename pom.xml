@@ -21,7 +21,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.jarvis.AppInterface</mainClass> <!-- Replace with your main class -->
+                    <mainClass>com.jarvis.AppInterface</mainClass>
                 </configuration>
             </plugin>
                   <plugin>
